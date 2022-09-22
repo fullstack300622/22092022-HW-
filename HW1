@@ -1,0 +1,10 @@
+create a css, js and html file.
+Include both css and js in the html file, check that its work.
+
+1)
+create "cars" array with objects of cars. 
+Add 3 seperate cars object, each car should have model, year and maXspeed.
+loop over cars array and print name model of each car.
+
+2)
+create cars.json file, try to re-write this object in json format and save it in cars.json file
